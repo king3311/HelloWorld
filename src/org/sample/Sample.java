@@ -21,4 +21,7 @@ public class Sample {
 
 	}
 
+	private void sampleproject() {
+		System.out.println("555");
+	}
 }
