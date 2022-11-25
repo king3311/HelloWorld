@@ -20,5 +20,7 @@ public class Sample {
 		System.out.println("44");
 
 	}
-
+   private void mainproject() {
+	System.out.println("project111");
+}
 }
